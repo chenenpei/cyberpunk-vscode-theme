@@ -1,0 +1,41 @@
+{
+	"name": "cyberpunk-theme",
+	"displayName": "Cyberpunk Theme",
+	"description": "A cyberpunk-inspired dark theme for Visual Studio Code",
+	"version": "1.0.0",
+	"publisher": "chenenpei",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cyberpunk",
+				"uiTheme": "vs-dark",
+				"path": "./src/cyberpunk-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/chenenpei/cyberpunk-vscode-theme.git"
+	},
+	"keywords": [
+		"theme",
+		"cyberpunk",
+		"dark",
+		"color-theme"
+	],
+	"license": "MIT",
+	"scripts": {
+		"package": "vsce package",
+		"publish:marketplace": "vsce publish"
+	},
+	"devDependencies": {
+		"@vscode/vsce": "^2.22.0"
+	}
+}
+
