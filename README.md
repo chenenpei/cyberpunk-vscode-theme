@@ -8,6 +8,8 @@ A cyberpunk-inspired dark theme for Visual Studio Code.
 - **Dark Background**: Reduces eye strain for long coding sessions
 - **Syntax Highlighting**: Carefully designed for better readability
 
+<img width="3024" height="1744" alt="image" src="https://github.com/user-attachments/assets/4fb44503-95cc-4815-9957-48093ddbaa24" />
+
 ## 🚀 Installation
 
 ### From Marketplace
