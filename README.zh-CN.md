@@ -8,6 +8,8 @@
 - **深色背景**：减少眼部疲劳，适合长时间编码
 - **语法高亮**：精心设计的语法高亮，提升代码可读性
 
+<img width="3024" height="1744" alt="image" src="https://github.com/user-attachments/assets/4fb44503-95cc-4815-9957-48093ddbaa24" />
+
 ## 🚀 安装
 
 ### 从 Marketplace 安装
